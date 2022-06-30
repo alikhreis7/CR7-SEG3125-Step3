@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/CR7-SEG3125-Step3/static/css/main.fb2ae682.css",
+    "main.js": "/CR7-SEG3125-Step3/static/js/main.d9159ad0.js",
+    "static/js/787.69a56aea.chunk.js": "/CR7-SEG3125-Step3/static/js/787.69a56aea.chunk.js",
+    "static/media/free.jpeg": "/CR7-SEG3125-Step3/static/media/free.f99080c5ab27f1f59443.jpeg",
+    "static/media/cr71.jpeg": "/CR7-SEG3125-Step3/static/media/cr71.52950e6a48dad58ecaf4.jpeg",
+    "static/media/kick.jpeg": "/CR7-SEG3125-Step3/static/media/kick.3c71daa6127aff6b49de.jpeg",
+    "static/media/avata.jpeg": "/CR7-SEG3125-Step3/static/media/avata.d840a3b47c7ccb8ee393.jpeg",
+    "static/media/map.jpeg": "/CR7-SEG3125-Step3/static/media/map.17f4a77322738a9bc50d.jpeg",
+    "static/media/superfly.jpeg": "/CR7-SEG3125-Step3/static/media/superfly.a8a28d57fab4d118f602.jpeg",
+    "static/media/her.jpeg": "/CR7-SEG3125-Step3/static/media/her.15460e52471b6e92f9be.jpeg",
+    "static/media/yo.jpeg": "/CR7-SEG3125-Step3/static/media/yo.d99b121572bc04ecc0f0.jpeg",
+    "static/media/vision.jpeg": "/CR7-SEG3125-Step3/static/media/vision.c3a8e583c9fee98231d1.jpeg",
+    "static/media/nga.jpeg": "/CR7-SEG3125-Step3/static/media/nga.3cb3b262b3f14ece1b69.jpeg",
+    "static/media/mission.jpeg": "/CR7-SEG3125-Step3/static/media/mission.8616ec7d64295bd9b03f.jpeg",
+    "static/media/manunited.jpeg": "/CR7-SEG3125-Step3/static/media/manunited.280e5d0b61d455bd2146.jpeg",
+    "static/media/juve.jpeg": "/CR7-SEG3125-Step3/static/media/juve.0dc2792ce461a3c8fab9.jpeg",
+    "static/media/yaya.jpeg": "/CR7-SEG3125-Step3/static/media/yaya.8e14d94266dc23217a96.jpeg",
+    "static/media/values.jpeg": "/CR7-SEG3125-Step3/static/media/values.56ba1b5de4beca9a8c35.jpeg",
+    "static/media/pball.jpeg": "/CR7-SEG3125-Step3/static/media/pball.7581ed4578e055402ed2.jpeg",
+    "static/media/portugal.jpeg": "/CR7-SEG3125-Step3/static/media/portugal.ffd418526ad21e317ab4.jpeg",
+    "static/media/champion.jpeg": "/CR7-SEG3125-Step3/static/media/champion.8d3950421658cd61665d.jpeg",
+    "static/media/match.jpeg": "/CR7-SEG3125-Step3/static/media/match.6dbce57992e1caa537a9.jpeg",
+    "static/media/young_ronaldo.jpeg": "/CR7-SEG3125-Step3/static/media/young_ronaldo.b97a40d7f62f4614f916.jpeg",
+    "static/media/logo.jpeg": "/CR7-SEG3125-Step3/static/media/logo.276347a9acd80e93ac32.jpeg",
+    "index.html": "/CR7-SEG3125-Step3/index.html",
+    "main.fb2ae682.css.map": "/CR7-SEG3125-Step3/static/css/main.fb2ae682.css.map",
+    "main.d9159ad0.js.map": "/CR7-SEG3125-Step3/static/js/main.d9159ad0.js.map",
+    "787.69a56aea.chunk.js.map": "/CR7-SEG3125-Step3/static/js/787.69a56aea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb2ae682.css",
+    "static/js/main.d9159ad0.js"
+  ]
+}
